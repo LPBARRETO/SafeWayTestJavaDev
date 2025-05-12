@@ -7,7 +7,6 @@ public class Cliente {
         this.nome = nome;
         this.cpf = cpf;
         this.saldo = saldo;
-        // aaaaa testando o codigo
     }
 
     public String getNome() {
